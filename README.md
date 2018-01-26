@@ -3,7 +3,9 @@ all instructions here
 
 `
 cmsrel CMSSW_9_3_2
+
 cd src
+
 cmsenv
 git clone https://github.com/bmahakud/HLLHCSubstructure
 git clone https://github.com/bmahakud/JetToolbox JMEAnalysis/JetToolbox
